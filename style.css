@@ -1,0 +1,28 @@
+.main-background{
+background-color: #feeae9;
+}
+
+.categories-img img{
+    width: 100px;
+    height: 100px;
+}
+
+.button-buynow{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-color: #fd7e14d1;
+    font-weight: bolder;
+}
+
+.categories-background-1{
+    background-color: orangered;
+
+}
+.categories-background-2{
+    background-color: #0dcaf0;
+}
+.categories-background-3{
+    background-color: #800004;
+}
